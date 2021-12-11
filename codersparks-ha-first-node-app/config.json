@@ -1,0 +1,14 @@
+{
+  "name": "Hello world 2",
+  "version": "0.3",
+  "slug": "hello_world_2",
+  "description": "My first real node add-on!",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "before",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "ports": {
+    "3000/tcp": 8080
+  }
+}

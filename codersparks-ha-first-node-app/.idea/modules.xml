@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/codersparks-ha-first-node-app.iml" filepath="$PROJECT_DIR$/.idea/codersparks-ha-first-node-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ha-addon-tutorial/.idea/ha-addon-tutorial.iml" filepath="$PROJECT_DIR$/../ha-addon-tutorial/.idea/ha-addon-tutorial.iml" />
+    </modules>
+  </component>
+</project>
